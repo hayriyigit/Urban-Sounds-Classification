@@ -19,6 +19,7 @@ Final project of Deep Learning Bootcamp that organised by Global AI Hub and Koc 
 ![img](https://i.hizliresim.com/f4ki41y.png)
 
 **Test metrics:**
+
 *Accuracy*: 0.8662821054458618
 
 *F1 Score*: 0.8702771229110035
